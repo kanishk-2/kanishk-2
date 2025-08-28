@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 --> 
 
 
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishk-2&layout=compact&theme=dark)
+<a href="https://github.com/kanishk-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kanishk-2&show_icons=true&theme=dark" alt="Kanishk's GitHub Stats" />
+</a>
+<a href="https://github.com/kanishk-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishk-2&layout=compact&theme=dark" alt="Top Languages" />
+</a>
 
 
 ## GSSOC(24) Badges 🪶
@@ -34,5 +37,5 @@ Here are some ideas to get you started:
 
 
 
-  
+  ![Profile-Views](https://komarev.com/ghpvc/?username=kanishk-2)
 
