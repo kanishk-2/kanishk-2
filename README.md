@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Im Kanishk 
 
 <!--
 **kanishk-2/kanishk-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 --> 
 
 
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kanishk-2&layout=compact&theme=dark)
 
 
 ## GSSOC(24) Badges 🪶
